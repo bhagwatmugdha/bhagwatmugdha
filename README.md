@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/bhagwatmugdha/">
-    <img align="center" height="300px" src="MugdhaIntro.png" alt="Mugdha Bhagwat Intro" />
+    <img align="center" height="300px" src="/MugdhaIntro.png" alt="Mugdha Bhagwat Intro" />
   </a>
 </p>
 
