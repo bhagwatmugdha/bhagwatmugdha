@@ -1,8 +1,17 @@
+<!---
 <p align="center">
   <a href="https://github.com/bhagwatmugdha/">
     <img align="center" src="./MugdhaIntro.png?raw=true" alt="Mugdha Bhagwat Intro" />
   </a>
 </p>
+--->
+## Hey there :D :wave:
+
+<hr>
+
+### I am Mugdha Bhagwat
+##### Full Stack Developer, Blockchain and Machine Learning Enthusiast
+
 
 <hr>
 
@@ -30,6 +39,10 @@
 <a href="https://www.linkedin.com/in/mugdhabhagwat/">
     <img align="center" alt="Mugdha's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+<hr>
+
+### Check out my work! :arrow_down:
 
 <!--
 **bhagwatmugdha/bhagwatmugdha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
