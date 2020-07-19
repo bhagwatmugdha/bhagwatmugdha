@@ -1,16 +1,16 @@
-<!---
-<p align="center">
-  <a href="https://github.com/bhagwatmugdha/">
-    <img align="center" src="./MugdhaIntro.png?raw=true" alt="Mugdha Bhagwat Intro" />
-  </a>
-</p>
---->
-## Hey there :D :wave:
 
-<hr>
+## Hey there :D :wave:
 
 ### I am Mugdha Bhagwat
 ##### Full Stack Developer, Blockchain and Machine Learning Enthusiast
+
+<hr>
+
+<p align="center">
+  <a href="https://github.com/bhagwatmugdha/">
+    <img align="center" src="MugdhaGithubIntro.gif?raw=true" alt="Mugdha Bhagwat Intro" />
+  </a>
+</p>
 
 
 <hr>
