@@ -6,15 +6,6 @@
 
 <hr>
 
-<p align="center">
-  <a href="https://github.com/bhagwatmugdha/">
-    <img align="center" src="MugdhaGithubIntro.gif?raw=true" alt="Mugdha Bhagwat Intro" />
-  </a>
-</p>
-
-
-<hr>
-
 #### Programming Languages, Frameworks, Tools :hammer:
 
 <code><img align="center" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/cplusplus.svg"></code>
